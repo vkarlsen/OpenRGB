@@ -6,6 +6,7 @@
 #include <iostream>
 #include <unistd.h>
 #include <limits.h>
+#include <sstream>
 
 /*-----------------------------------------------------*\
 | Linux AutoStart Implementation                        |
