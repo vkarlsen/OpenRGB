@@ -38,3 +38,8 @@ protected:
 #ifdef __APPLE__
 #include "AutoStart-MacOS.h"
 #endif
+
+#ifdef __FreeBSD__
+#include "AutoStart-FreeBSD.h"
+#endif
+
